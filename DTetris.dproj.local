@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/03 10:00:00.000.046,=\\psf\Home\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2015/10/03 10:00:00.000.693,\\psf\Home\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Svil_Locale\Tetris\DTetris\F_Main.pas</Transaction>
+    <Transaction>2015/10/03 10:00:00.000.693,\\psf\Home\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Svil_Locale\Tetris\DTetris\F_Main.dfm</Transaction>
+    <Transaction>2015/10/03 10:00:00.000.676,\\psf\Home\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Svil_Locale\Tetris\DTetris\DTetris.dproj</Transaction>
+    <Transaction>2015/10/04 10:00:00.000.404,=C:\Svil_Locale\Tetris\DTetris\Unit1.pas</Transaction>
+    <Transaction>2015/10/04 10:00:00.000.242,C:\Svil_Locale\Tetris\DTetris\BloccoTetris.pas=C:\Svil_Locale\Tetris\DTetris\Unit1.pas</Transaction>
+    <Transaction>2015/10/05 17:00:00.000.252,C:\sviluppo\Svil_locale\Tetris\DTetris\U_Constant.pas=C:\sviluppo\Svil_locale\Tetris\DTetris\Unit1.pas</Transaction>
+    <Transaction>2015/10/05 17:00:00.000.138,=C:\sviluppo\Svil_locale\Tetris\DTetris\Unit1.pas</Transaction>
+    <Transaction>2015/10/12 18:00:00.000.252,=C:\sviluppo\Svil_locale\Tetris\DTetris\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
